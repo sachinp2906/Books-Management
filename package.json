@@ -1,0 +1,19 @@
+{
+  "name": "bookmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinp2906/Books-Management.git"
+  },
+  "author": "sapna , jivan , alok , sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinp2906/Books-Management/issues"
+  },
+  "homepage": "https://github.com/sachinp2906/Books-Management#readme"
+}
